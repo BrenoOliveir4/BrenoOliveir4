@@ -28,4 +28,4 @@ Meu Nome é Breno 👋
 
 <a href="https://www.linkedin.com/in/breno-da-silva-oliveira-aa7061216/"> <img alt = "LinkedIn" src = "https://cdn-icons-png.flaticon.com/32/145/145807 "/></a> &nbsp;
 <a href="mailto:brenooliveir49@gmail.com"> <img alt = "Gmail" src = "https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://steamcommunity.com/id/BrenoOliveir49"> <img alt = "Steam" src = "https://cdn.icon-icons.com/icons2/2248/PNG/32/steam_icon_135152 "/></a> &nbsp;
+<a href="https://steamcommunity.com/id/BrenoOliveir49"> <img alt = "Steam" src = "https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/steam-icon.png "/></a> &nbsp;
